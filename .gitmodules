@@ -1,0 +1,6 @@
+[submodule "packages/mono-subA"]
+	path = packages/mono-subA
+	url = git@github.com:CUndH/mono-subA.git
+[submodule "packages/mono-subB"]
+	path = packages/mono-subB
+	url = git@github.com:CUndH/mono-subB.git
